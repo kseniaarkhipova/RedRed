@@ -14,4 +14,5 @@ MUMMER 3.23 http://mummer.sourceforge.net
 RedRed outputs two files: 
 
 *File 1. Fasta file with representative sequences of individual clusters
+
 *File 2. File with clusters information; first name in each row is a name of representative, which was included in File 1 
