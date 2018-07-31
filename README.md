@@ -1,4 +1,5 @@
-# RedRed: Reducing Redundancy script using iterative approach
+# RedRed
+## Reducing Redundancy script using iterative approach
 
 Script allows cluster DNA sequences in accordance to nucleotide homology. It especially suits for clustering sequences of viral genomes (as assume possible circularity of genome) and big datasets, as allows work in batches to fit memory limits.
 
