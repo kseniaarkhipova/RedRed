@@ -10,6 +10,10 @@ MUMMER 3.23 http://mummer.sourceforge.net
 ## Usage
     RedRed --fna dna_sequences_to_cluster.fasta
 
+For help:
+
+    RedRed -h
+    
 ## Output
 
 RedRed outputs two files: 
